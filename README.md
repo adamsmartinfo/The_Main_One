@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OneAdamSmart
+- 👋 Hi, I’m @AdamSmart
 - 👀 I’m interested in SQL, Tableau, and Python.
 - 🌱 I’m currently learning SQL, Tableau, and Python.
 - 💞️ I’m looking to collaborate on all things data analytics.
